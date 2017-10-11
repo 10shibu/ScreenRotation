@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScreenRotation</string>
+    <string name = "my_name" >shibu</string>
+    <string name = "txt_change" >""</string>
+</resources>
